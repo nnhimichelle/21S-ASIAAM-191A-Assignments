@@ -1,0 +1,3 @@
+The fields that I used on my GeoJSON are the ratio of the total population and the Asian population.
+I used those two fields because it would be interesting to see the ratio of the Asian population across difference counties of California, especially since I expected to see the counties in the Bay Area, such as San Francisco and Santa Clara County to be higher than most of the other counties in CA.
+A problem that this data set has is that it is a very ambiguous set to choose, and it could be more open to generlizations or assumptions that were not meant to be created in the first place. 
