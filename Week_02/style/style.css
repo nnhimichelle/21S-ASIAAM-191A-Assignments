@@ -20,7 +20,7 @@ html, body {
 .main {
     display: grid;
     grid-area: main;
-    background-color: violet;
+    background-color: rgb(208, 164, 233);
 }
 
 #map {
