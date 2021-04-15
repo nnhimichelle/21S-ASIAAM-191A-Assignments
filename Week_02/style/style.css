@@ -20,7 +20,7 @@ html, body {
 .main {
     display: grid;
     grid-area: main;
-    background-color: rgb(208, 164, 233);
+    background-color: rgb(191, 173, 202);
 }
 
 #map {
