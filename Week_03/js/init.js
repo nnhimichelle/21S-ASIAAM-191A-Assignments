@@ -1,6 +1,6 @@
 // declare variables
 let zoomLevel = 3;
-const mapCenter = [28.3044,-169.4531];
+const mapCenter = [42.7140,-172.2656];
 
 // use the variables
 const map = L.map('map').setView(mapCenter, zoomLevel);
@@ -51,8 +51,8 @@ function createButtons(lat,lng,title){
 
 }
 // use our marker functions
-glazelilyMarker(33.6163, -117.8754, 'Newport Beach, CA, USA','Newport Beach, CA: The first scenery that I drew! A great beach indeed <3')
-glazelilyMarker(37.3320, -121.8575, 'Cupertino Main Street, CA, USA','Cupertino Main Street, CA: I may have my thoughts on the gentrification of the area, but the buildings are too pretty not to capture')
-glazelilyMarker(35.0300, -224.5605, 'Osaka, Japan','Osaka, Japan: The color scheme when it is night time here beats everything else!!')
-glazelilyMarker(20.9576, -252.9272,'Ha Long Bay, Vietnam','Ha Long Bay, Vietnam: I can never do justice with these mountainous islands </3 but the touch of home is still in the piece I made!')
-glazelilyMarker(19.6503, -155.9784, 'Kailua-Kona, Hawaii, USA', 'Kailua-Kona, Hawaii, USA: A classic lovely beach with a lovely color scheme!')
+glazelilyMarker(32.7365, -117.1472, 'San Diego, CA, USA','<h2>San Diego, CA:</h2> <p>The first scenery that I drew! A great beach indeed <3 </p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/San_Diego_Sunset.jpg/1600px-San_Diego_Sunset.jpg" width = 300px height = 100 />')
+glazelilyMarker(35.0300, -224.5605, 'Osaka, Japan','<h2>Osaka, Japan:</h2> <p>The color scheme in the city here beats everything else!!</p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2017osaka.jpg/1200px-2017osaka.jpg" width = 300px height = 100% />')
+glazelilyMarker(10.7901, -253.3008, 'Ho Chi Minh City, Vietnam','<h2>Ho Chi Minh City:</h2> <p>The first time I found a hotel place pretty LOL but I have a touch of home here and I liked the color palette I had in mind when I saw these thingies in the hotel.</p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Summer_ho_chi_minh_city.jpg/900px-Summer_ho_chi_minh_city.jpg" width = 300px height = 100% />')
+glazelilyMarker(34.4703, -119.7070, 'Santa Barbara, CA, USA', '<h2>Santa Barbara, CA, USA</h2> <p>A classic lovely beach with a lovely color scheme!</p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sbpic.jpg/1129px-Sbpic.jpg" width = 300px height = 100% />')
+glazelilyMarker(43.7076, -79.4531, 'Toronto, Canada', '<h2>Toronto, Canada:</h2> <p> Cue back to 2016 me who wanted to live in the city vibes here HAHA but honestly I really want to paint this image</p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019rainytoronto.jpg/900px-2019rainytoronto.jpg" width = 300px height = 100% />')
